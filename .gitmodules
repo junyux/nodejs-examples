@@ -1,3 +1,6 @@
 [submodule "todolist"]
 	path = todolist
 	url = https://github.com/junyux/todolist
+[submodule "http-with-nodejs"]
+	path = http-with-nodejs
+	url = https://github.com/junyux/http-with-nodejs
