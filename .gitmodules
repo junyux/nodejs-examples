@@ -4,3 +4,6 @@
 [submodule "http-with-nodejs"]
 	path = http-with-nodejs
 	url = https://github.com/junyux/http-with-nodejs
+[submodule "bullshit-generator-js"]
+	path = bullshit-generator-js
+	url = https://github.com/akira-cn/bullshit-generator-js
